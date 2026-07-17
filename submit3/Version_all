@@ -1,13 +1,13 @@
 [GLOBAL]
 #协议/规则库版本
-libproto_ver    = 2.0.472
+libproto_ver    = 2.0.473
 libaudit_ver    = 2.1.17
 libdomain_ver   = 2.0.0
 libdomain2_ver  = 2.1.0
 libvcache_ver   = 20170909
 libproto4_ver   = 
 libcrts_ver     = 14
-libproto_v4_ver    = 3.0.23
+libproto_v4_ver    = 3.0.24
 libaudit_v4_ver    = 3.0.1
 
 push_remote2    = 1000
@@ -99,25 +99,6 @@ IK-WIPQ5322_X9_D5G        = 2.3.2
 IK-WIPQ5322_X8_5G         = 2.3.2
 IK-WIPQ5322_SW3600M-DP_5G = 2.3.4
 IK-EN7563_WX5100M-DP_5G   = 2.3.3
-IK-WIPQ5018_X7_5G_BETA    = 4.0.101
-IK-MT7981V1_H3000G-DP_5G_BETA  = 4.0.101
-IK-MT7981V1_HX3000_5G_BETA = 4.0.101
-IK-MT7981V1_N11_5G_BETA = 4.0.101
-IK-MT7981V1_W30_5G_BETA = 4.0.101
-IK-MT7981V1_W35_5G_BETA = 4.0.101
-IK-MT7981V1_WH3000G-DP_5G_BETA = 4.0.101
-IK-MT7981V1_WM3000G-P_5G_BETA = 4.0.101
-IK-MT7981V1_WX3000G-DP_5G_BETA = 4.0.101
-IK-WIPQ5322_SW3600M-DP_5G_BETA = 4.0.101
-IK-WIPQ5018_L50-R_5G_BETA = 4.0.101
-IK-WIPQ5018_L50_5G_BETA = 4.0.101
-IK-WIPQ5018_L55_D5G_BETA = 4.0.101
-IK-WIPQ5018_SW3000G-DP_5G_BETA = 4.0.101
-IK-WIPQ5018_SW7_5G_BETA = 4.0.101
-IK-WIPQ5018_SW8_5G_BETA = 4.0.101
-IK-WIPQ5018_W30S_5G_BETA = 4.0.101
-IK-WIPQ5018_W50_5G_BETA = 4.0.101
-IK-WIPQ5018_X7-PLUS_5G_BETA = 4.0.101
 
 
 #=============================================================================================================
